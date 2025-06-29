@@ -1,6 +1,6 @@
-## 🔧 Embedded Systems Internship Projects – RD Info Technology
+### 🔧 Embedded Systems Internship Projects – RD Info Technology
 
-This repository contains all the tasks I completed during my internship at *RD Info Technology. The internship focused on foundational concepts in **Embedded Systems* with practical, hands-on implementation using the *Arduino Uno*.
+This repository contains all the tasks I completed during my internship at RD Info Technology. The internship focused on foundational concepts in **Embedded Systems* with practical, hands-on implementation using the Arduino Uno.
 
 ---
 
